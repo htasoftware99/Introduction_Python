@@ -1,0 +1,10 @@
+<article>
+    <title>Simple XML</title>
+    <date>07.05.2022</date>
+    <author>
+        <FirstName>John</FirstName>
+        <LastName>Doe</LastName>
+    </author>
+    <summary>XML is so easy</summary>
+    <content>In this chapter, we present a wide variety of examples that use xml</content>   
+</article>
